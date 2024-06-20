@@ -1,13 +1,13 @@
 ---
 title: "Découvrez Legends of Runeterra : Le Jeu de Cartes Stratégique de Riot Games"
 excerpt: "Plongez dans l'univers de Legends of Runeterra, le jeu de cartes stratégique développé par Riot Games. Explorez les mécaniques de jeu, les régions, et les stratégies pour dominer vos adversaires."
-coverImage: "/assets/blog/lor/cover.jpg"
+coverImage: "/assets/blog/legends-of-runterra/cover.jpg"
 date: "2024-06-20T10:00:00.000Z"
 author:
   name: Alice Dupont
   picture: "/assets/blog/authors/alice.jpeg"
 ogImage:
-  url: "/assets/blog/lor/cover.jpg"
+  url: "/assets/blog/legends-of-runterra/cover.jpg"
 ---
 
 Legends of Runeterra (LoR) est un jeu de cartes stratégique en ligne développé et publié par Riot Games. Lancé en avril 2020, LoR se déroule dans l'univers de Runeterra, le même cadre que League of Legends. Le jeu propose une expérience riche et profonde où chaque décision compte, offrant aux joueurs des possibilités infinies pour créer des stratégies et des decks uniques.
