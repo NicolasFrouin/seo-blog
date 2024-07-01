@@ -5,7 +5,7 @@ coverImage: "/assets/blog/legends-of-runterra/cover.jpg"
 date: "2024-02-05T15:19:35.843Z"
 author:
   name: Alice Dupont
-  picture: "/assets/blog/authors/alice.jpeg"
+  picture: "/assets/blog/authors/alice.png"
 ogImage:
   url: "/assets/blog/legends-of-runterra/cover.jpg"
 ---

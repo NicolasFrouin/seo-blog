@@ -10,6 +10,7 @@ const inter = Inter({ subsets: ["latin"] });
 export const metadata: Metadata = {
   title: CMS_NAME,
   description: 'Un blog sur les jeux vidéo, la technologie et la culture geek.',
+  metadataBase: new URL('https://www.limhu.social/'),
   openGraph: {
     images: [HOME_OG_IMAGE_URL],
   },

@@ -5,7 +5,7 @@ coverImage: "/assets/blog/shadowoftheerdtree/cover.jpg"
 date: "2024-06-15T21:03:47.542Z"
 author:
   name: Alex Lefevre
-  picture: "/assets/blog/authors/alex.jpeg"
+  picture: "/assets/blog/authors/alex.jpg"
 ogImage:
   url: "/assets/blog/shadowoftheerdtree/cover.jpg"
 ---

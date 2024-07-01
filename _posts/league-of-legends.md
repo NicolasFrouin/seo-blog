@@ -5,7 +5,7 @@ coverImage: '/assets/blog/league-of-legends/cover.jpg'
 date: '2023-10-04T09:45:06.412Z'
 author:
   name: John Smith
-  picture: '/assets/blog/authors/joe.jpeg'
+  picture: '/assets/blog/authors/joe.png'
 ogImage:
   url: '/assets/blog/league-of-legends/cover.jpg'
 ---

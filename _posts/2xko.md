@@ -5,7 +5,7 @@ coverImage: "/assets/blog/2xko/cover.png"
 date: "2024-06-18T10:54:35.752"
 author:
   name: Marc Durand
-  picture: "/assets/blog/authors/marc.jpeg"
+  picture: "/assets/blog/authors/marc.jpg"
 ogImage:
   url: "/assets/blog/2xko/cover.png"
 ---

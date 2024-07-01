@@ -5,7 +5,7 @@ coverImage: "/assets/blog/elden-ring/cover.png"
 date: "2022-02-26T09:32:27.201Z"
 author:
   name: Clara Martin
-  picture: "/assets/blog/authors/clara.jpeg"
+  picture: "/assets/blog/authors/clara.png"
 ogImage:
   url: "/assets/blog/elden-ring/cover.png"
 ---

@@ -5,7 +5,7 @@ coverImage: "/assets/blog/teamfight-tactics/cover.jpg"
 date: "2024-05-04T13:44:25.741Z"
 author:
   name: Jane Doe
-  picture: "/assets/blog/authors/jane.jpeg"
+  picture: "/assets/blog/authors/jane.png"
 ogImage:
   url: "/assets/blog/teamfight-tactics/cover.jpg"
 ---
