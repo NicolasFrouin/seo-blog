@@ -2,7 +2,7 @@
 title: 'Découverte de League of Legends'
 excerpt: "Plongez dans l'univers captivant de League of Legends, le jeu de stratégie en temps réel de Riot Games. Apprenez-en plus sur les mécanismes de jeu, les champions et les stratégies pour maîtriser la Faille de l'invocateur."
 coverImage: '/assets/blog/league-of-legends/cover.jpg'
-date: '2024-06-20T10:00:00.000Z'
+date: '2023-10-04T09:45:06.412Z'
 author:
   name: John Smith
   picture: '/assets/blog/authors/joe.jpeg'

@@ -1,13 +1,13 @@
 ---
 title: "Elden Ring : Le Chef-d'Œuvre de FromSoftware"
 excerpt: "Explorez l'univers époustouflant d'Elden Ring, le dernier jeu de rôle d'action de FromSoftware. Découvrez ses mécaniques de jeu, son monde ouvert, et ce qui en fait une expérience incontournable."
-coverImage: "/assets/blog/eldenring/cover.jpg"
-date: "2024-06-20T10:00:00.000Z"
+coverImage: "/assets/blog/elden-ring/cover.png"
+date: "2022-02-26T09:32:27.201Z"
 author:
   name: Clara Martin
   picture: "/assets/blog/authors/clara.jpeg"
 ogImage:
-  url: "/assets/blog/eldenring/cover.jpg"
+  url: "/assets/blog/elden-ring/cover.png"
 ---
 
 **Elden Ring** est le dernier bijou de FromSoftware, les créateurs de la série des Dark Souls, de Bloodborne et de Sekiro: Shadows Die Twice. Lancé en février 2022, ce jeu de rôle d'action en monde ouvert a immédiatement captivé les joueurs du monde entier avec son gameplay exigeant, son monde vaste et détaillé, et sa narration riche.

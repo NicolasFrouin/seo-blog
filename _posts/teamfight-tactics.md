@@ -2,7 +2,7 @@
 title: "Introduction à Teamfight Tactics"
 excerpt: "Découvrez l'univers de Teamfight Tactics, le jeu de stratégie automatique développé par Riot Games. Plongez dans les mécanismes de jeu, les stratégies et les champions qui rendent chaque partie unique."
 coverImage: "/assets/blog/teamfight-tactics/cover.jpg"
-date: "2024-06-20T10:00:00.000Z"
+date: "2024-05-04T13:44:25.741Z"
 author:
   name: Jane Doe
   picture: "/assets/blog/authors/jane.jpeg"

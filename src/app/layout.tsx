@@ -8,8 +8,8 @@ import "./globals.css";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: `Next.js Blog Example with ${CMS_NAME}`,
-  description: `A statically generated blog example using Next.js and ${CMS_NAME}.`,
+  title: CMS_NAME,
+  description: 'Un blog sur les jeux vidéo, la technologie et la culture geek.',
   openGraph: {
     images: [HOME_OG_IMAGE_URL],
   },

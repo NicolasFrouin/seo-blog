@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://limhu.social/sitemap.xml

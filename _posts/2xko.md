@@ -1,13 +1,13 @@
 ---
 title: "2XKO : Le Prochain Jeu de Combat de Riot Games"
 excerpt: "Découvrez 2XKO, le nouveau jeu de combat de Riot Games. Plongez dans les mécaniques de jeu, les personnages, et les innovations qui font de ce titre un concurrent sérieux à Street Fighter."
-coverImage: "/assets/blog/2xko/cover.jpg"
-date: "2024-06-20T10:00:00.000Z"
+coverImage: "/assets/blog/2xko/cover.png"
+date: "2024-06-18T10:54:35.752"
 author:
   name: Marc Durand
   picture: "/assets/blog/authors/marc.jpeg"
 ogImage:
-  url: "/assets/blog/2xko/cover.jpg"
+  url: "/assets/blog/2xko/cover.png"
 ---
 
 Riot Games, le studio derrière les succès mondiaux tels que League of Legends et Valorant, s'apprête à faire une entrée fracassante dans le monde des jeux de combat avec leur nouveau titre, **2XKO**. Annoncé comme un mélange explosif de stratégie, de réflexes et de compétences, 2XKO est positionné pour devenir un sérieux concurrent à des franchises établies comme Street Fighter et Tekken.

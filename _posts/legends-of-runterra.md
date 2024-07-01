@@ -2,7 +2,7 @@
 title: "Découvrez Legends of Runeterra : Le Jeu de Cartes Stratégique de Riot Games"
 excerpt: "Plongez dans l'univers de Legends of Runeterra, le jeu de cartes stratégique développé par Riot Games. Explorez les mécaniques de jeu, les régions, et les stratégies pour dominer vos adversaires."
 coverImage: "/assets/blog/legends-of-runterra/cover.jpg"
-date: "2024-06-20T10:00:00.000Z"
+date: "2024-02-05T15:19:35.843Z"
 author:
   name: Alice Dupont
   picture: "/assets/blog/authors/alice.jpeg"

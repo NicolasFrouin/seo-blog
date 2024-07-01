@@ -2,7 +2,7 @@
 title: "Shadow of the Erdtree : Le Nouveau DLC d'Elden Ring"
 excerpt: "Explorez les nouveautés du DLC 'Shadow of the Erdtree' pour Elden Ring. Découvrez les nouvelles régions, les ennemis redoutables, et les mécaniques de jeu inédites qui enrichissent encore l'expérience du chef-d'œuvre de FromSoftware."
 coverImage: "/assets/blog/shadowoftheerdtree/cover.jpg"
-date: "2024-06-20T10:00:00.000Z"
+date: "2024-06-15T21:03:47.542Z"
 author:
   name: Alex Lefevre
   picture: "/assets/blog/authors/alex.jpeg"
