@@ -1,13 +1,13 @@
 ---
 title: 'Découverte de League of Legends'
 excerpt: "Plongez dans l'univers captivant de League of Legends, le jeu de stratégie en temps réel de Riot Games. Apprenez-en plus sur les mécanismes de jeu, les champions et les stratégies pour maîtriser la Faille de l'invocateur."
-coverImage: '/assets/blog/league-of-legends/cover.jpg'
+coverImage: '/assets/blog/league-of-legends/cover.webp'
 date: '2023-10-04T09:45:06.412Z'
 author:
   name: John Smith
-  picture: '/assets/blog/authors/joe.png'
+  picture: '/assets/blog/authors/joe.webp'
 ogImage:
-  url: '/assets/blog/league-of-legends/cover.jpg'
+  url: '/assets/blog/league-of-legends/cover.webp'
 ---
 
 League of Legends (LoL) est un jeu de stratégie en temps réel (RTS) multijoueur en ligne, développé et publié par Riot Games. Lancé en octobre 2009, LoL est rapidement devenu l'un des jeux les plus populaires au monde, attirant des millions de joueurs et établissant une scène compétitive internationale florissante.
